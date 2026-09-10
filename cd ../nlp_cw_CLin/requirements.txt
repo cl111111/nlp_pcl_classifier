@@ -1,0 +1,13 @@
+ipykernel
+numpy
+torch
+pandas
+transformers
+accelerate
+sentencepiece
+protobuf
+scipy
+matplotlib
+seaborn
+nltk
+scikit-learn
